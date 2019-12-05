@@ -1,1 +1,66 @@
-<mxfile host="www.draw.io" modified="2019-12-05T06:22:26.524Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3664.3 Safari/537.36" etag="h-LmxDK5ixNv-Hp4JKfE" version="12.3.6" type="github" pages="1"><diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">7Vlbd6M2EP41elyOJBCgR9+SPmR7tk1Pe/rUI4OM2QXkFXJi76+vZIS5mayzm8Rpk7xEjEaj0cz3afAA3Fm+u5Zss/4oYp4BDOMdcOcAY+TBUP8zkn0lCVxUCRKZxlapEdym37gVQivdpjEvO4pKiEylm64wEkXBI9WRMSnFfVdtJbLurhuW8IHgNmLZUPpXGqu1lSIIm4lfeJqs7dYhsRNLFn1JpNgWdj+A3dXhr5rOWW3L6pdrFov7lshdAHcmhVDVKN/NeGZiW4etWnc1Mnv0W/JCnbPgb76cT9bR5NuW+Z/519nN4g/ygVrf1L6OB491eOyjkGotElGwbNFIp4czc2MV6qdG50aIjRYiLfzMldrbXLOtElq0VnlmZ6s9zUajR7GiUmxlZLWCmLruEtKYBoTwKKp9V0wmXD1wRnQMtgYxFzlXcq/XSZ4xld51fWAWTclR77j0k0i1dxha5OPA5tXiHtW4qE1UftlVTV4mUrJ9S21jFMoH9qHdfVxMumn+jj5GbltfDyoP6qdWTBrRATqPgFFN5v81jvBT4Oil01/fz0+V/rHo3bFsa0Pwa5oU6Q5gP9PRnC6lHiVmBBYE0BmYwsNgDkI9uALTGaATBB2CHASxgzx6aiUFIQHhHCwCMJ2DyeK40gMLH0wgmIbh9QCDd1yqVF/1N2zJs0+iTFUqCj21FEqJXBtm5aaqKat0Z5DYRle9eJLp82iZMqiclkqKL3wmMiG1rBCFQbK+2jdmy3yXmCLpRKmS6c5R4p7Lf0outakB3o/lwDxEIk8jO16JQl2xPM1MBv/kMmYFM65aNzK+Ukfsn4C6cZvvWqIhYutZ3LspQvt839RB36Z33aqAFI5jvIWzH7hFBlCqYodPIMJKyg0rOjn3v25NQT1E8cPKhnECzFF9lm8OS13Xq/J7CG1f3tg4A7i1H/q8lStd94wX5qWERV3vmr17W9VE8BxEUct4Zahr3ETjuU/+smEeZTnyjzTH3vVo0C9E/x41xVZlaaGV6hdWOH5FZGnEi5I3l8QIiU9QfZTXbq8EoOAEr9GQ1+Fz8RqP8BqBhWvIFKK8TDbbcv3meI6QQ99ZfoLlLn5n+eNY7p5iOTnBcvJc1XtYvn/naVweSf7xt7fIbwTf6/jI2/o7vx/gtx/2qrgfXJjfwzK+yFipw3vLmYzeXvGGyAnOqd6vlYLIf+fg4zh48Rprmz9tDg4bb0U8MX3xJqo/3TJ76K3+++3XkRi3Yli3TtsxrGU/2ab1Bv2w3q+c6pyDNu3AEPF6WDiz3/tULVbsv57U199pXnnqex16DKkT9Jh5bvZ9Sjq2CHZwz9Rz5z/4D+Z/pGV+mfy72HOoFwSBSwPswzqgj4cCHZglhPgE+qFHXfTCsAhfDyzOrggXhQXpVQSiX+cQQcRDkJKQwh+8IULUhYXvhw71kVdBzaXhE8FCPzbfjCv15sO8u/gX</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-05T06:25:28.301Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3664.3 Safari/537.36" etag="67hWA5gxOfoW7QBEBm1Z" version="12.3.6" type="github" pages="1">
+  <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
+    <mxGraphModel dx="1408" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="YebDAhcAzua6jeqCLET5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7d933b09d9755ecc-9" target="YebDAhcAzua6jeqCLET5-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="150" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="290" y="325"/>
+              <mxPoint x="290" y="213"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YebDAhcAzua6jeqCLET5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7d933b09d9755ecc-9" target="YebDAhcAzua6jeqCLET5-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="325"/>
+              <mxPoint x="290" y="408"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7d933b09d9755ecc-9" value="Nignix&lt;br&gt;地址：10.51.102.149&lt;br&gt;配置：4核8G" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;align=left;" parent="1" vertex="1">
+          <mxGeometry x="120" y="280" width="69" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="YebDAhcAzua6jeqCLET5-1" value="server2&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;地址：&lt;/span&gt;&lt;font face=&quot;verdana&quot;&gt;10.51.104.191&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;配置：16核24G&lt;/span&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=left;outlineConnect=0;shape=mxgraph.citrix.license_server;" parent="1" vertex="1">
+          <mxGeometry x="390" y="170" width="61" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="YebDAhcAzua6jeqCLET5-2" value="server1、msgpush&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;地址：&lt;/span&gt;&lt;font face=&quot;verdana&quot;&gt;10.51.111.9&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;配置：16核32G&lt;/span&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=left;outlineConnect=0;shape=mxgraph.citrix.license_server;" parent="1" vertex="1">
+          <mxGeometry x="390" y="370" width="65" height="85" as="geometry"/>
+        </mxCell>
+        <mxCell id="YebDAhcAzua6jeqCLET5-11" value="Reids、MQ&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;地址：&lt;/span&gt;&lt;font face=&quot;verdana&quot;&gt;10.51.111.101&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;配置：4核8G&lt;/span&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=left;outlineConnect=0;shape=mxgraph.citrix.license_server;" parent="1" vertex="1">
+          <mxGeometry x="680" y="167" width="65" height="85" as="geometry"/>
+        </mxCell>
+        <mxCell id="YebDAhcAzua6jeqCLET5-12" value="ElasticSearch&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;地址：&lt;/span&gt;&lt;font face=&quot;verdana&quot;&gt;10.51.101.79&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;配置：4核16G&lt;/span&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=left;outlineConnect=0;shape=mxgraph.citrix.license_server;" parent="1" vertex="1">
+          <mxGeometry x="680" y="370" width="65" height="85" as="geometry"/>
+        </mxCell>
+        <mxCell id="YebDAhcAzua6jeqCLET5-25" value="" style="endArrow=none;html=1;" parent="1" source="YebDAhcAzua6jeqCLET5-2" target="YebDAhcAzua6jeqCLET5-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="400" as="sourcePoint"/>
+            <mxPoint x="540" y="350" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YebDAhcAzua6jeqCLET5-26" value="" style="endArrow=none;html=1;" parent="1" source="YebDAhcAzua6jeqCLET5-1" target="YebDAhcAzua6jeqCLET5-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="209.75" as="sourcePoint"/>
+            <mxPoint x="695" y="52.25" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YebDAhcAzua6jeqCLET5-27" value="" style="endArrow=none;html=1;" parent="1" source="YebDAhcAzua6jeqCLET5-1" target="YebDAhcAzua6jeqCLET5-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="324.9477739726027" as="sourcePoint"/>
+            <mxPoint x="699" y="324.5556506849315" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YebDAhcAzua6jeqCLET5-28" value="" style="endArrow=none;html=1;" parent="1" source="YebDAhcAzua6jeqCLET5-2" target="YebDAhcAzua6jeqCLET5-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="510.1515410958905" as="sourcePoint"/>
+            <mxPoint x="819" y="668.9614726027398" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
