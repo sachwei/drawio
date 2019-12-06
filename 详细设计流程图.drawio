@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-06T00:49:45.727Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3664.3 Safari/537.36" etag="Sf__u0-0PdfOht3dnp-d" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T00:54:24.054Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3664.3 Safari/537.36" etag="nUbGd0X30XYKZWTKUXlo" version="12.3.6" type="github" pages="1">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1408" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -10,14 +10,38 @@
         <mxCell id="77e6c97f196da883-2" value="输入" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="51" width="160" height="709" as="geometry"/>
         </mxCell>
+        <mxCell id="1M6lAa_YY1CRUgkVT424-1" value="故事点" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="30" y="129" width="100" height="71" as="geometry"/>
+        </mxCell>
         <mxCell id="77e6c97f196da883-3" value="开发工程师" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="160" y="51" width="160" height="709" as="geometry"/>
+        </mxCell>
+        <mxCell id="1M6lAa_YY1CRUgkVT424-4" value="开始" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="35" y="59" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="1M6lAa_YY1CRUgkVT424-6" value="&lt;span style=&quot;text-align: left&quot;&gt;功能设计&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="30" y="149" width="110" height="51" as="geometry"/>
+        </mxCell>
+        <mxCell id="1M6lAa_YY1CRUgkVT424-9" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;数据模型设计&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="30" y="239" width="110" height="51" as="geometry"/>
+        </mxCell>
+        <mxCell id="1M6lAa_YY1CRUgkVT424-10" value="&lt;span style=&quot;text-align: left&quot;&gt;接口设计&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="30" y="329" width="110" height="51" as="geometry"/>
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="详细设计负责人" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="320" y="51" width="160" height="709" as="geometry"/>
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="输出" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="480" y="51" width="160" height="709" as="geometry"/>
+        </mxCell>
+        <mxCell id="1M6lAa_YY1CRUgkVT424-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-5" source="1M6lAa_YY1CRUgkVT424-11" target="1M6lAa_YY1CRUgkVT424-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1M6lAa_YY1CRUgkVT424-11" value="天鸿数据模型" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="77e6c97f196da883-5">
+          <mxGeometry x="30" y="99" width="100" height="71" as="geometry"/>
+        </mxCell>
+        <mxCell id="1M6lAa_YY1CRUgkVT424-12" value="元数据系统模型" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="77e6c97f196da883-5">
+          <mxGeometry x="30" y="239" width="100" height="70" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
