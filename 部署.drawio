@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-16T13:17:05.385Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="nJDRAX0gMszOapf7WNiI" version="12.9.13" type="github">
+<mxfile modified="2020-04-16T13:22:30.311Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="5l_pMkWK_pf1_S4uwONL" version="12.9.13" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -62,8 +62,13 @@
         <mxCell id="46Nr-ciOrfHZb8CZ5osq-25" value="RabbitMQ" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_queue;" vertex="1" parent="1">
           <mxGeometry x="800" y="601.75" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="46Nr-ciOrfHZb8CZ5osq-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="46Nr-ciOrfHZb8CZ5osq-40" target="46Nr-ciOrfHZb8CZ5osq-52">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="46Nr-ciOrfHZb8CZ5osq-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="46Nr-ciOrfHZb8CZ5osq-40" target="46Nr-ciOrfHZb8CZ5osq-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="379" />
+              <mxPoint x="490" y="379" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="46Nr-ciOrfHZb8CZ5osq-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffffff;gradientColor=none;glass=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="229.25" width="420" height="300" as="geometry" />
@@ -120,10 +125,10 @@
         <mxCell id="46Nr-ciOrfHZb8CZ5osq-54" value="用户中心" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" vertex="1" parent="1">
           <mxGeometry x="1007" y="239.25" width="42.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="46Nr-ciOrfHZb8CZ5osq-56" value="中&lt;br&gt;台&lt;br&gt;服&lt;br&gt;务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="46Nr-ciOrfHZb8CZ5osq-56" value="中&lt;br style=&quot;font-size: 14px;&quot;&gt;台&lt;br style=&quot;font-size: 14px;&quot;&gt;服&lt;br style=&quot;font-size: 14px;&quot;&gt;务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1057" y="339.25" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="46Nr-ciOrfHZb8CZ5osq-57" value="业&lt;br&gt;务&lt;br&gt;集&lt;br&gt;群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="46Nr-ciOrfHZb8CZ5osq-57" value="业&lt;br style=&quot;font-size: 14px;&quot;&gt;务&lt;br style=&quot;font-size: 14px;&quot;&gt;服&lt;br style=&quot;font-size: 14px;&quot;&gt;务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="890" y="343.25" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="46Nr-ciOrfHZb8CZ5osq-58" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
@@ -157,6 +162,9 @@
         </mxCell>
         <mxCell id="46Nr-ciOrfHZb8CZ5osq-78" value="注册中心" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" vertex="1" parent="1">
           <mxGeometry x="397.5" y="110" width="42.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="46Nr-ciOrfHZb8CZ5osq-102" value="客户端" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;rounded=0;glass=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="153.5" y="498.75" width="71" height="29.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
