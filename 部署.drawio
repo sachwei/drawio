@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-16T13:05:45.270Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="kkXe-DDLPKM7HDo3z5p3" version="12.9.13" type="github">
+<mxfile modified="2020-04-16T13:09:30.388Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="XV_l0xOERZ_rYtlyNvJA" version="12.9.13" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -68,10 +68,10 @@
         <mxCell id="46Nr-ciOrfHZb8CZ5osq-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffffff;gradientColor=none;glass=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="229.25" width="420" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="46Nr-ciOrfHZb8CZ5osq-41" value="CC" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" vertex="1" parent="1">
+        <mxCell id="46Nr-ciOrfHZb8CZ5osq-41" value="即时通讯" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" vertex="1" parent="1">
           <mxGeometry x="573.75" y="426.75" width="42.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="46Nr-ciOrfHZb8CZ5osq-42" value="微学习" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" vertex="1" parent="1">
+        <mxCell id="46Nr-ciOrfHZb8CZ5osq-42" value="学习提能" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" vertex="1" parent="1">
           <mxGeometry x="699.75" y="337.75" width="42.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="46Nr-ciOrfHZb8CZ5osq-43" value="基础功能" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" vertex="1" parent="1">
@@ -81,10 +81,10 @@
           <mxGeometry x="573.75" y="336.75" width="42.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="46Nr-ciOrfHZb8CZ5osq-45" value="通用业务" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" vertex="1" parent="1">
-          <mxGeometry x="818" y="335.75" width="42.5" height="50" as="geometry" />
+          <mxGeometry x="699.75" y="425.75" width="42.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="46Nr-ciOrfHZb8CZ5osq-46" value="沟通交流" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" vertex="1" parent="1">
-          <mxGeometry x="699.75" y="427.75" width="42.5" height="50" as="geometry" />
+        <mxCell id="46Nr-ciOrfHZb8CZ5osq-46" value="信息交流" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" vertex="1" parent="1">
+          <mxGeometry x="818" y="339.25" width="42.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="46Nr-ciOrfHZb8CZ5osq-47" value="人才管理" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;" vertex="1" parent="1">
           <mxGeometry x="697.75" y="256.75" width="42.5" height="50" as="geometry" />
